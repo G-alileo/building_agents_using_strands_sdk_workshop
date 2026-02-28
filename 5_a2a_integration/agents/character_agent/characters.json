@@ -1,0 +1,340 @@
+{
+    "_default": {
+        "1": {
+            "character_id": "a132bbc8-8a64-4e25-bc5a-8e72aa7bf14e",
+            "name": "Arnaud",
+            "character_class": "Fighter",
+            "race": "Human",
+            "gender": "Male",
+            "level": 1,
+            "experience": 0,
+            "stats": {
+                "strength": 13,
+                "dexterity": 14,
+                "constitution": 14,
+                "intelligence": 11,
+                "wisdom": 15,
+                "charisma": 12
+            },
+            "inventory": [
+                {
+                    "item_name": "Starting Equipment Pack",
+                    "quantity": 1
+                },
+                {
+                    "item_name": "Gold Pieces",
+                    "quantity": 100
+                }
+            ],
+            "created_at": "2025-08-13T17:20:11.226678"
+        },
+        "2": {
+            "character_id": "245b8c0d-78fb-447f-8213-580d1b0a0be9",
+            "name": "Thorin Ironbeard",
+            "character_class": "Fighter",
+            "race": "Dwarf",
+            "gender": "male",
+            "level": 1,
+            "experience": 0,
+            "stats": {
+                "strength": 16,
+                "dexterity": 12,
+                "constitution": 15,
+                "intelligence": 10,
+                "wisdom": 13,
+                "charisma": 8
+            },
+            "inventory": [
+                {
+                    "item_name": "Starting Equipment Pack",
+                    "quantity": 1
+                },
+                {
+                    "item_name": "Gold Pieces",
+                    "quantity": 100
+                }
+            ],
+            "created_at": "2025-08-20T17:24:55.282163"
+        },
+        "3": {
+            "character_id": "bc7b3c30-66b8-4a2b-bbc6-e20ffac895f8",
+            "name": "Gypsy",
+            "character_class": "Rogue",
+            "race": "Elf",
+            "gender": "female",
+            "level": 1,
+            "experience": 0,
+            "stats": {
+                "strength": 16,
+                "dexterity": 12,
+                "constitution": 15,
+                "intelligence": 10,
+                "wisdom": 13,
+                "charisma": 8
+            },
+            "inventory": [
+                {
+                    "item_name": "Starting Equipment Pack",
+                    "quantity": 1
+                },
+                {
+                    "item_name": "Gold Pieces",
+                    "quantity": 100
+                }
+            ],
+            "created_at": "2025-08-20T17:59:26.403018"
+        },
+        "4": {
+            "character_id": "c0d460d7-0040-41e1-b494-a2b4907ed9f4",
+            "name": "Kzertus",
+            "character_class": "Fighter",
+            "race": "Human",
+            "gender": "Male",
+            "level": 1,
+            "experience": 0,
+            "stats": {
+                "strength": 14,
+                "dexterity": 12,
+                "constitution": 15,
+                "intelligence": 10,
+                "wisdom": 13,
+                "charisma": 11
+            },
+            "inventory": [
+                {
+                    "item_name": "Starting Equipment Pack",
+                    "quantity": 1
+                },
+                {
+                    "item_name": "Gold Pieces",
+                    "quantity": 100
+                }
+            ],
+            "created_at": "2025-09-11T17:00:37.777466"
+        },
+        "5": {
+            "character_id": "c7a330ee-1563-4b03-b84a-99fcc52b62f4",
+            "name": "Thorin",
+            "character_class": "Fighter",
+            "race": "Dwarf",
+            "gender": "Male",
+            "level": 1,
+            "experience": 0,
+            "stats": {
+                "strength": 16,
+                "dexterity": 12,
+                "constitution": 15,
+                "intelligence": 15,
+                "wisdom": 13,
+                "charisma": 11
+            },
+            "inventory": [
+                {
+                    "item_name": "Starting Equipment Pack",
+                    "quantity": 1
+                },
+                {
+                    "item_name": "Gold Pieces",
+                    "quantity": 100
+                }
+            ],
+            "created_at": "2026-02-28T08:45:49.173742"
+        },
+        "6": {
+            "character_id": "18130fb5-cc08-48e3-8427-6badcc3b058e",
+            "name": "Thorfin The True Warrior",
+            "character_class": "Fighter",
+            "race": "Halfling",
+            "gender": "Male",
+            "level": 1,
+            "experience": 0,
+            "stats": {
+                "strength": 15,
+                "dexterity": 16,
+                "constitution": 12,
+                "intelligence": 13,
+                "wisdom": 12,
+                "charisma": 13
+            },
+            "inventory": [
+                {
+                    "item_name": "Starting Equipment Pack",
+                    "quantity": 1
+                },
+                {
+                    "item_name": "Gold Pieces",
+                    "quantity": 100
+                }
+            ],
+            "created_at": "2026-02-28T08:56:43.902130"
+        },
+        "7": {
+            "character_id": "1d15ace6-104d-4c2d-8e62-02c7be0762b8",
+            "name": "Thorfin",
+            "character_class": "Rogue",
+            "race": "Half-Elf",
+            "gender": "Male",
+            "level": 1,
+            "experience": 0,
+            "stats": {
+                "strength": 14,
+                "dexterity": 15,
+                "constitution": 14,
+                "intelligence": 12,
+                "wisdom": 14,
+                "charisma": 14
+            },
+            "inventory": [
+                {
+                    "item_name": "Starting Equipment Pack",
+                    "quantity": 1
+                },
+                {
+                    "item_name": "Gold Pieces",
+                    "quantity": 100
+                }
+            ],
+            "created_at": "2026-02-28T09:02:01.743455"
+        },
+        "8": {
+            "character_id": "c0090695-05b7-48f4-861c-aa9cfd04b2e2",
+            "name": "Cleric",
+            "character_class": "Paladin",
+            "race": "Elf",
+            "gender": "Male",
+            "level": 1,
+            "experience": 0,
+            "stats": {
+                "strength": 15,
+                "dexterity": 14,
+                "constitution": 12,
+                "intelligence": 14,
+                "wisdom": 13,
+                "charisma": 16
+            },
+            "inventory": [
+                {
+                    "item_name": "Starting Equipment Pack",
+                    "quantity": 1
+                },
+                {
+                    "item_name": "Gold Pieces",
+                    "quantity": 100
+                }
+            ],
+            "created_at": "2026-02-28T09:10:24.422469"
+        },
+        "9": {
+            "character_id": "8fb2902b-8b1c-47da-b94a-8f829f65388b",
+            "name": "Cleric",
+            "character_class": "Paladin",
+            "race": "Elf",
+            "gender": "Male",
+            "level": 1,
+            "experience": 0,
+            "stats": {
+                "strength": 15,
+                "dexterity": 13,
+                "constitution": 13,
+                "intelligence": 12,
+                "wisdom": 13,
+                "charisma": 15
+            },
+            "inventory": [
+                {
+                    "item_name": "Starting Equipment Pack",
+                    "quantity": 1
+                },
+                {
+                    "item_name": "Gold Pieces",
+                    "quantity": 100
+                }
+            ],
+            "created_at": "2026-02-28T09:11:43.097137"
+        },
+        "10": {
+            "character_id": "d84a3d5c-1fa4-4678-8ce5-7ef4fe08d4bb",
+            "name": "Shadow",
+            "character_class": "Barbarian",
+            "race": "Human",
+            "gender": "Male",
+            "level": 1,
+            "experience": 0,
+            "stats": {
+                "strength": 15,
+                "dexterity": 13,
+                "constitution": 13,
+                "intelligence": 11,
+                "wisdom": 14,
+                "charisma": 14
+            },
+            "inventory": [
+                {
+                    "item_name": "Starting Equipment Pack",
+                    "quantity": 1
+                },
+                {
+                    "item_name": "Gold Pieces",
+                    "quantity": 100
+                }
+            ],
+            "created_at": "2026-02-28T09:29:58.376437"
+        },
+        "11": {
+            "character_id": "5f89036d-c033-4a12-b884-e6a2cd0e4630",
+            "name": "Cidig",
+            "character_class": "Warlock",
+            "race": "Tiefling",
+            "gender": "Male",
+            "level": 1,
+            "experience": 0,
+            "stats": {
+                "strength": 12,
+                "dexterity": 15,
+                "constitution": 13,
+                "intelligence": 14,
+                "wisdom": 12,
+                "charisma": 16
+            },
+            "inventory": [
+                {
+                    "item_name": "Starting Equipment Pack",
+                    "quantity": 1
+                },
+                {
+                    "item_name": "Gold Pieces",
+                    "quantity": 100
+                }
+            ],
+            "created_at": "2026-02-28T09:33:16.422423"
+        },
+        "12": {
+            "character_id": "4ef33a50-cc88-4d21-b8ba-708d83210fbb",
+            "name": "Thorfin",
+            "character_class": "Ranger",
+            "race": "Halfling",
+            "gender": "Male",
+            "level": 1,
+            "experience": 0,
+            "stats": {
+                "strength": 13,
+                "dexterity": 14,
+                "constitution": 15,
+                "intelligence": 11,
+                "wisdom": 17,
+                "charisma": 11
+            },
+            "inventory": [
+                {
+                    "item_name": "Starting Equipment Pack",
+                    "quantity": 1
+                },
+                {
+                    "item_name": "Gold Pieces",
+                    "quantity": 100
+                }
+            ],
+            "created_at": "2026-02-28T09:36:45.243966"
+        }
+    }
+}
